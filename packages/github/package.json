@@ -40,7 +40,7 @@
   "scripts": {
     "audit-moderate": "npm install && npm audit --json --audit-level=moderate > audit.json",
     "test": "jest",
-    "build": "tsc",
+    "build": "node init && tsc",
     "format": "prettier --write **/*.ts",
     "format-check": "prettier --check **/*.ts",
     "tsc": "tsc"

@@ -21,4 +21,4 @@ module.exports = {
     '/node_modules/(?!(@octokit|universal-user-agent|before-after-hook)/)'
   ],
   verbose: true
-}
+};

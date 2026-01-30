@@ -1,6 +1,6 @@
 {
   "name": "root",
-  "private": true, 
+  "private": true,
   "scripts": {
     "audit-all": "lerna run audit-moderate",
     "bootstrap": "lerna exec -- npm install",

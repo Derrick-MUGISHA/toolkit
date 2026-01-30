@@ -35,4 +35,4 @@ module.exports = {
     '/node_modules/(?!(@octokit|@actions/github|@actions/http-client|@actions/io|@actions/exec|@actions/core|@actions/glob|@actions/tool-cache|@actions/cache|@actions/attest|universal-user-agent|before-after-hook)/)'
   ],
   verbose: true
-}
+};

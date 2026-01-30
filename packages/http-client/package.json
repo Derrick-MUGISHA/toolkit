@@ -21,12 +21,12 @@
       "types": "./lib/auth.d.ts",
       "import": "./lib/auth.js"
     },
-    "./lib/proxy": {  
-      "types": "./lib/proxy.d.ts",  
+    "./lib/proxy": {
+      "types": "./lib/proxy.d.ts",
       "import": "./lib/proxy.js"
     },
-    "./lib/interfaces": {  
-      "types": "./lib/interfaces.d.ts",  
+    "./lib/interfaces": {
+      "types": "./lib/interfaces.d.ts",
       "import": "./lib/interfaces.js"
     }
   },

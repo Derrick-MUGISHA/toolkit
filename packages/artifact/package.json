@@ -58,7 +58,7 @@
     "@octokit/request-error": "^7.1.0",
     "@protobuf-ts/plugin": "^2.2.3-alpha.1",
     "@protobuf-ts/runtime": "^2.9.4",
-    "archiver": "^7.0.1",
+    "archiver": "^8.0.0",
     "jwt-decode": "^4.0.0",
     "unzip-stream": "^0.3.1"
   },
